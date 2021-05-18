@@ -1,0 +1,56 @@
+[2019-01-20 11:07:57.889] Calling `MetaTwins_RDMsc_training` for `yuanyumeng` at 20-Jan-2019 11:07:57(737445.4638642245).
+[2019-01-20 11:08:02.770] Initial coherence is 90 .
+                          Running MetaTwins_RDMsc_training('yuanyumeng', 1, [2019-01-20 11:08:02.792] Session 1 has 60 trials, requires 454s, 7.5s per trial.
+[2019-01-20 11:08:03.784] Trying to open PTB window...
+[easyPTB Info] Using 14.0 inch screen with PPI=157.8
+
+
+PTB-INFO: This is Psychtoolbox-3 for Microsoft Windows, under Matlab 64-Bit (Version 3.0.14 - Build date: Oct  3 2017).
+PTB-INFO: Support status on this operating system release: Windows version 10.0 supported and tested to some limited degree.
+PTB-INFO: Type 'PsychtoolboxVersion' for more detailed version information.
+PTB-INFO: Most parts of the Psychtoolbox distribution are licensed to you under terms of the MIT License, with
+PTB-INFO: some restrictions. See file 'License.txt' in the Psychtoolbox root folder for the exact licensing conditions.
+
+PTB-WARNING: Call to PsychAvSetMmMaxThreadCharacteristics() for Vista-MMCSS scheduling failed for threadhandle 00007FFCFA398648. Setting thread priority to HIGHEST as a work-around...
+PTB-INFO: The detected endline of the vertical blank interval is equal or lower than the startline. This indicates
+PTB-INFO: that i couldn't detect the duration of the vertical blank interval and won't be able to correct timestamps
+PTB-INFO: for it. This will introduce a very small and constant offset (typically << 1 msec). Read 'help BeampositionQueries'
+PTB-INFO: for how to correct this, should you really require that last few microseconds of precision.
+PTB-INFO: Btw. this can also mean that your systems beamposition queries are slightly broken. It may help timing precision to
+PTB-INFO: enable the beamposition workaround, as explained in 'help ConserveVRAMSettings', section 'kPsychUseBeampositionQueryWorkaround'.
+PTB-WARNING: Call to PsychAvSetMmMaxThreadCharacteristics() for Vista-MMCSS scheduling failed for threadhandle 00007FFCFA398648. Setting thread priority to HIGHEST as a work-around...
+
+
+PTB-INFO: OpenGL-Renderer is NVIDIA Corporation :: GeForce 940MX/PCIe/SSE2 :: 4.6.0 NVIDIA 391.25
+PTB-INFO: VBL startline = 1080 , VBL Endline = 1080
+PTB-INFO: Measured monitor refresh interval from beamposition = 16.658273 ms [60.030231 Hz].
+PTB-INFO: Will use beamposition query for accurate Flip time stamping.
+PTB-INFO: Measured monitor refresh interval from VBLsync = 16.662654 ms [60.014449 Hz]. (50 valid samples taken, stddev=0.167513 ms.)
+PTB-INFO: Reported monitor refresh interval from operating system = 16.666667 ms [60.000000 Hz].
+PTB-INFO: Small deviations between reported values are normal and no reason to worry.
+PTB-INFO: Anti-Aliasing with 8 samples per pixel enabled.
+PTB-INFO: ==============================================================================================================================
+PTB-INFO: WINDOWS DWM DESKTOP COMPOSITOR IS ACTIVE. On this Windows-10 or later system, Psychtoolbox can no longer reliably detect if
+PTB-INFO: this will cause trouble for timing and integrity of visual stimuli or not. You might be just fine, or you could be in trouble.
+PTB-INFO: Use external measurement equipment and independent procedures to verify reliability of timing if you care about proper timing.
+PTB-INFO: ==============================================================================================================================
+PTB-WARNING: Call to PsychAvSetMmMaxThreadCharacteristics() for Vista-MMCSS scheduling failed for threadhandle 00007FFCFA398648. Setting thread priority to HIGHEST as a work-around...
+[2019-01-20 11:08:06.785] PTB window opened.
+[2019-01-20 11:08:07.141] Preparation slide displayed.
+[2019-01-20 11:08:54.120] fMRI trigger recieved. 0 secs before recording, 2 secs before task.
+                          time stamp 856559.1958240309, Flip delay: 0.0170155473.
+[2019-01-20 11:14:47.103] 60 trials finished in 351s.
+         icoh: 90
+      session: 1
+      lastcoh: 24
+    recentcoh: 24.9000
+[2019-01-20 11:14:51.477] This session completes at 20-Jan-2019 11:14:49, 355.003s after session start, 351s on 60 trials, totally 411.232s, correctness is 58.333%.
+
+
+corr_isc_conf: 0.0272
+
+AUC: 0.5319
+[2019-01-20 11:14:51.519] MetaTwins_RDMsc_training ends at 20-Jan-2019 11:14:51(737445.4686518402), totally 6min53.65s passed.
+
+
+

@@ -1,0 +1,291 @@
+[2019-03-03 12:23:36.461] Calling `MetaTwinsDoubleBlind_behave` for `yaopeng` at 03-Mar-2019 12:23:36(737487.5163941666).
+[2019-03-03 12:23:36.489] Trigger Connection success.Timelag = 0.001 s
+[2019-03-03 12:23:43.102] Connection success.Timelag = 0.001 s
+Load icoh 15 in RDMsc History file!!!
+[2019-03-03 12:23:43.113] Initial coherence is 15.
+[2019-03-03 12:23:43.117] Trying to open PTB window...
+[easyPTB Info] Using 14.0 inch screen with PPI=157.8
+
+
+PTB-INFO: This is Psychtoolbox-3 for Microsoft Windows, under Matlab 64-Bit (Version 3.0.14 - Build date: Oct  3 2017).
+PTB-INFO: Support status on this operating system release: Windows version 10.0 supported and tested to some limited degree.
+PTB-INFO: Type 'PsychtoolboxVersion' for more detailed version information.
+PTB-INFO: Most parts of the Psychtoolbox distribution are licensed to you under terms of the MIT License, with
+PTB-INFO: some restrictions. See file 'License.txt' in the Psychtoolbox root folder for the exact licensing conditions.
+
+PTB-INFO: The detected endline of the vertical blank interval is equal or lower than the startline. This indicates
+PTB-INFO: that i couldn't detect the duration of the vertical blank interval and won't be able to correct timestamps
+PTB-INFO: for it. This will introduce a very small and constant offset (typically << 1 msec). Read 'help BeampositionQueries'
+PTB-INFO: for how to correct this, should you really require that last few microseconds of precision.
+PTB-INFO: Btw. this can also mean that your systems beamposition queries are slightly broken. It may help timing precision to
+PTB-INFO: enable the beamposition workaround, as explained in 'help ConserveVRAMSettings', section 'kPsychUseBeampositionQueryWorkaround'.
+
+
+PTB-INFO: OpenGL-Renderer is NVIDIA Corporation :: GeForce 940MX/PCIe/SSE2 :: 4.6.0 NVIDIA 391.25
+PTB-INFO: VBL startline = 1080 , VBL Endline = 1080
+PTB-INFO: Measured monitor refresh interval from beamposition = 16.658780 ms [60.028407 Hz].
+PTB-INFO: Will use beamposition query for accurate Flip time stamping.
+PTB-INFO: Measured monitor refresh interval from VBLsync = 16.659902 ms [60.024363 Hz]. (50 valid samples taken, stddev=0.163744 ms.)
+PTB-INFO: Reported monitor refresh interval from operating system = 16.666667 ms [60.000000 Hz].
+PTB-INFO: Small deviations between reported values are normal and no reason to worry.
+PTB-INFO: Anti-Aliasing with 8 samples per pixel enabled.
+PTB-INFO: ==============================================================================================================================
+PTB-INFO: WINDOWS DWM DESKTOP COMPOSITOR IS ACTIVE. On this Windows-10 or later system, Psychtoolbox can no longer reliably detect if
+PTB-INFO: this will cause trouble for timing and integrity of visual stimuli or not. You might be just fine, or you could be in trouble.
+PTB-INFO: Use external measurement equipment and independent procedures to verify reliability of timing if you care about proper timing.
+PTB-INFO: ==============================================================================================================================
+[2019-03-03 12:23:46.253] PTB window opened.
+[2019-03-03 12:23:46.253] Session 1 has 90 trials, requires ?5.5s, [2019-03-03 12:23:46.354] Preparation slide displayed.
+[2019-03-03 12:23:59.165] 0 secs before recording, 2 secs before task.
+                          time stamp 847905.6868107866, Flip delay: 0.0000000000.
+time1228
+time1228
+[2019-03-03 12:33:01.164] 90 trials finished in 540s.
+    session: 1
+       icoh: 15
+
+[2019-03-03 12:33:05.466] This session completes at 03-Mar-2019 12:33:03, 544.004s after session start, 540s on 90 trials, totally 566.712s.
+
+[2019-03-03 12:33:05.467] MetaTwinsDoubleBlind_behave ends at 03-Mar-2019 12:33:05(737487.5229799305), totally 9min29.01s passed.
+
+
+
+[2019-03-03 12:33:24.843] Calling `MetaTwinsDoubleBlind_behave` for `yaopeng` at 03-Mar-2019 12:33:24(737487.5232041435).
+[2019-03-03 12:33:24.865] Trigger Connection success.Timelag = 0.001 s
+[2019-03-03 12:33:27.870] Connection success.Timelag = 0.001 s
+[Warning: You are asking for session 2, which is not compatible with my memory (which is 1)...
+I will use yours if we continue...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('MetaTwinsDoubleBlind_behave', 'D:\BNUSync\src\MetaTwins\MetaTwinsDoubleBlind_behave.m', 282)" style="font-weight:bold">MetaTwinsDoubleBlind_behave</a> (<a href="matlab: opentoline('D:\BNUSync\src\MetaTwins\MetaTwinsDoubleBlind_behave.m',282,0)">line 282</a>)] 
+Use icoh 9 receive from other's!!!
+[2019-03-03 12:33:27.901] Trying to open PTB window...
+[easyPTB Info] Using 14.0 inch screen with PPI=157.8
+
+
+PTB-INFO: This is Psychtoolbox-3 for Microsoft Windows, under Matlab 64-Bit (Version 3.0.14 - Build date: Oct  3 2017).
+PTB-INFO: Support status on this operating system release: Windows version 10.0 supported and tested to some limited degree.
+PTB-INFO: Type 'PsychtoolboxVersion' for more detailed version information.
+PTB-INFO: Most parts of the Psychtoolbox distribution are licensed to you under terms of the MIT License, with
+PTB-INFO: some restrictions. See file 'License.txt' in the Psychtoolbox root folder for the exact licensing conditions.
+
+PTB-INFO: The detected endline of the vertical blank interval is equal or lower than the startline. This indicates
+PTB-INFO: that i couldn't detect the duration of the vertical blank interval and won't be able to correct timestamps
+PTB-INFO: for it. This will introduce a very small and constant offset (typically << 1 msec). Read 'help BeampositionQueries'
+PTB-INFO: for how to correct this, should you really require that last few microseconds of precision.
+PTB-INFO: Btw. this can also mean that your systems beamposition queries are slightly broken. It may help timing precision to
+PTB-INFO: enable the beamposition workaround, as explained in 'help ConserveVRAMSettings', section 'kPsychUseBeampositionQueryWorkaround'.
+
+
+PTB-INFO: OpenGL-Renderer is NVIDIA Corporation :: GeForce 940MX/PCIe/SSE2 :: 4.6.0 NVIDIA 391.25
+PTB-INFO: VBL startline = 1080 , VBL Endline = 1080
+PTB-INFO: Measured monitor refresh interval from beamposition = 16.658796 ms [60.028348 Hz].
+PTB-INFO: Will use beamposition query for accurate Flip time stamping.
+PTB-INFO: Measured monitor refresh interval from VBLsync = 16.662394 ms [60.015386 Hz]. (50 valid samples taken, stddev=0.133024 ms.)
+PTB-INFO: Reported monitor refresh interval from operating system = 16.666667 ms [60.000000 Hz].
+PTB-INFO: Small deviations between reported values are normal and no reason to worry.
+PTB-INFO: Anti-Aliasing with 8 samples per pixel enabled.
+PTB-INFO: ==============================================================================================================================
+PTB-INFO: WINDOWS DWM DESKTOP COMPOSITOR IS ACTIVE. On this Windows-10 or later system, Psychtoolbox can no longer reliably detect if
+PTB-INFO: this will cause trouble for timing and integrity of visual stimuli or not. You might be just fine, or you could be in trouble.
+PTB-INFO: Use external measurement equipment and independent procedures to verify reliability of timing if you care about proper timing.
+PTB-INFO: ==============================================================================================================================
+[2019-03-03 12:33:31.037] PTB window opened.
+[2019-03-03 12:33:31.038] Session 2 has 90 trials, requires ?5.5s, [2019-03-03 12:33:31.154] Preparation slide displayed.
+[2019-03-03 12:33:40.517] 0 secs before recording, 2 secs before task.
+                          time stamp 848487.0388870050, Flip delay: 0.0000000000.
+time1228
+time1228
+[2019-03-03 12:35:38.991] 17 trials finished in 102s.
+%% MetaTwinsDoubleBlind_behave_Conf for '_guess': starting at yaopeng (       48.0000000000).3-Mar-2019 12:33:247.374875e+05 for '
+record = [
+%  n dir coh resp isc conf conforig    osti      rtime     oconf     ctime     oisi       iti   total
+   1  1   9    1   1    2     -1      2.498883 1.499631   4.514634 0.281421   4.914447 3.084664   6  
+   2  4   9    3   0    4     -1      8.496150 1.399715  10.411947 0.000860  10.528563 3.467772   6  
+   3  4   9    2   0    4     -1     14.493455 1.066479  16.076046 0.000826  16.192659 3.800923   6  
+   4  4   9    3   0   -1     -1     20.490700 1.399703  22.406492 0.000000  24.405552 1.585278   6  
+   5  3   9    3   1   -1     -1     26.487963 1.266424  28.270492 0.000000  30.269530 1.718531   6  
+   6  4   9    4   1    6     -1     32.485250 1.049665  34.051211 0.167425  34.334409 3.650890   6  
+   7  3   9    3   1    6     -1     38.515826 0.916479  39.948514 0.000728  40.065125 3.950926   6  
+   8  4   9    3   0   -1     -1     44.513095 1.382853  46.412240 0.000000  48.411289 1.602044   6  
+   9  2   9    4   0    7      8     50.510367 1.282883  52.309557 0.000821  52.426166 3.584435   6  
+  10  2   9    3   0   -1      7     56.507644 1.166472  58.190207 0.000000  60.189247 1.818620   6  
+  11  1   9    3   0   -1      7     62.504901 1.083160  64.104192 0.000000  66.103228 1.901919   6  
+  12  3   9    3   1   -1      8     68.502200 1.133084  70.151432 0.000000  72.150477 1.851945   6  
+  13  3   9    3   1    7      7     74.499454 1.099761  76.115386 0.000744  76.231998 3.767680   6  
+  14  3   9    3   1   -1      6     80.496721 0.899879  81.912754 0.000000  83.911784 2.085191   6  
+  15  1   9    4   0   -1      7     86.493999 1.982589  88.992864 0.000000  90.991896 1.002317   6  
+  16  1   9    3   0   -1      6     92.491276 1.149768  94.157182 0.000000  96.156213 1.835244   6  
+  17  1   9    4   0   -1      7     98.505201 1.499473 100.520946 0.000000 102.519979 1.485377   6  
+]; % This session breaks at 03-Mar-2019 12:35:38, 118.476s after session start, 102s on 17 trials, totally 134.153s.
+
+    session: 2
+       icoh: 9
+
+[2019-03-03 12:35:39.013] This session breaks at 03-Mar-2019 12:35:38, 118.476s after session start, 102s on 17 trials, totally 134.153s.
+
+[2019-03-03 12:35:39.014] MetaTwinsDoubleBlind_behave ends at 03-Mar-2019 12:35:39(737487.5247570949), totally 2min14.175s passed.
+
+
+
+[2019-03-03 12:36:56.331] Calling `MetaTwinsDoubleBlind_behave` for `yaopeng` at 03-Mar-2019 12:36:56(737487.5256519213).
+[2019-03-03 12:36:56.350] Trigger Connection success.Timelag = 0.001 s
+[2019-03-03 12:36:59.354] Connection success.Timelag = 0.001 s
+[Warning: You are asking for session 2, which is not compatible with my memory (which is 1)...
+I will use yours if we continue...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('MetaTwinsDoubleBlind_behave', 'D:\BNUSync\src\MetaTwins\MetaTwinsDoubleBlind_behave.m', 282)" style="font-weight:bold">MetaTwinsDoubleBlind_behave</a> (<a href="matlab: opentoline('D:\BNUSync\src\MetaTwins\MetaTwinsDoubleBlind_behave.m',282,0)">line 282</a>)] 
+Use icoh 9 receive from other's!!!
+[2019-03-03 12:36:59.383] Trying to open PTB window...
+[easyPTB Info] Using 14.0 inch screen with PPI=157.8
+
+
+PTB-INFO: This is Psychtoolbox-3 for Microsoft Windows, under Matlab 64-Bit (Version 3.0.14 - Build date: Oct  3 2017).
+PTB-INFO: Support status on this operating system release: Windows version 10.0 supported and tested to some limited degree.
+PTB-INFO: Type 'PsychtoolboxVersion' for more detailed version information.
+PTB-INFO: Most parts of the Psychtoolbox distribution are licensed to you under terms of the MIT License, with
+PTB-INFO: some restrictions. See file 'License.txt' in the Psychtoolbox root folder for the exact licensing conditions.
+
+PTB-INFO: The detected endline of the vertical blank interval is equal or lower than the startline. This indicates
+PTB-INFO: that i couldn't detect the duration of the vertical blank interval and won't be able to correct timestamps
+PTB-INFO: for it. This will introduce a very small and constant offset (typically << 1 msec). Read 'help BeampositionQueries'
+PTB-INFO: for how to correct this, should you really require that last few microseconds of precision.
+PTB-INFO: Btw. this can also mean that your systems beamposition queries are slightly broken. It may help timing precision to
+PTB-INFO: enable the beamposition workaround, as explained in 'help ConserveVRAMSettings', section 'kPsychUseBeampositionQueryWorkaround'.
+
+
+PTB-INFO: OpenGL-Renderer is NVIDIA Corporation :: GeForce 940MX/PCIe/SSE2 :: 4.6.0 NVIDIA 391.25
+PTB-INFO: VBL startline = 1080 , VBL Endline = 1080
+PTB-INFO: Measured monitor refresh interval from beamposition = 16.658749 ms [60.028517 Hz].
+PTB-INFO: Will use beamposition query for accurate Flip time stamping.
+PTB-INFO: Measured monitor refresh interval from VBLsync = 16.661850 ms [60.017345 Hz]. (50 valid samples taken, stddev=0.152983 ms.)
+PTB-INFO: Reported monitor refresh interval from operating system = 16.666667 ms [60.000000 Hz].
+PTB-INFO: Small deviations between reported values are normal and no reason to worry.
+PTB-INFO: Anti-Aliasing with 8 samples per pixel enabled.
+PTB-INFO: ==============================================================================================================================
+PTB-INFO: WINDOWS DWM DESKTOP COMPOSITOR IS ACTIVE. On this Windows-10 or later system, Psychtoolbox can no longer reliably detect if
+PTB-INFO: this will cause trouble for timing and integrity of visual stimuli or not. You might be just fine, or you could be in trouble.
+PTB-INFO: Use external measurement equipment and independent procedures to verify reliability of timing if you care about proper timing.
+PTB-INFO: ==============================================================================================================================
+[2019-03-03 12:37:02.525] PTB window opened.
+[2019-03-03 12:37:02.525] Session 2 has 90 trials, requires ?5.5s, [2019-03-03 12:37:02.641] Preparation slide displayed.
+[2019-03-03 12:37:11.872] 0 secs before recording, 2 secs before task.
+                          time stamp 848698.3926972533, Flip delay: 0.0000000000.
+time1228
+time1228
+[2019-03-03 12:46:13.871] 90 trials finished in 540s.
+    session: 2
+       icoh: 9
+
+[2019-03-03 12:46:18.147] This session completes at 03-Mar-2019 12:46:15, 544.004s after session start, 540s on 90 trials, totally 559.547s.
+
+[2019-03-03 12:46:18.148] MetaTwinsDoubleBlind_behave ends at 03-Mar-2019 12:46:18(737487.5321544792), totally 9min21.821s passed.
+
+
+
+[2019-03-03 12:46:46.664] Calling `MetaTwinsDoubleBlind_behave` for `yaopeng` at 03-Mar-2019 12:46:46(737487.5324845023).
+[2019-03-03 12:46:46.681] Trigger Connection success.Timelag = 0.001 s
+[2019-03-03 12:46:48.480] Connection success.Timelag = 0.001 s
+[Warning: You are asking for session 3, which is not compatible with my memory (which is 2)...
+I will use yours if we continue...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('MetaTwinsDoubleBlind_behave', 'D:\BNUSync\src\MetaTwins\MetaTwinsDoubleBlind_behave.m', 282)" style="font-weight:bold">MetaTwinsDoubleBlind_behave</a> (<a href="matlab: opentoline('D:\BNUSync\src\MetaTwins\MetaTwinsDoubleBlind_behave.m',282,0)">line 282</a>)] 
+Load icoh 15 in RDMsc History file!!!
+[2019-03-03 12:46:48.493] Initial coherence is 15.
+[2019-03-03 12:46:48.496] Trying to open PTB window...
+[easyPTB Info] Using 14.0 inch screen with PPI=157.8
+
+
+PTB-INFO: This is Psychtoolbox-3 for Microsoft Windows, under Matlab 64-Bit (Version 3.0.14 - Build date: Oct  3 2017).
+PTB-INFO: Support status on this operating system release: Windows version 10.0 supported and tested to some limited degree.
+PTB-INFO: Type 'PsychtoolboxVersion' for more detailed version information.
+PTB-INFO: Most parts of the Psychtoolbox distribution are licensed to you under terms of the MIT License, with
+PTB-INFO: some restrictions. See file 'License.txt' in the Psychtoolbox root folder for the exact licensing conditions.
+
+PTB-INFO: The detected endline of the vertical blank interval is equal or lower than the startline. This indicates
+PTB-INFO: that i couldn't detect the duration of the vertical blank interval and won't be able to correct timestamps
+PTB-INFO: for it. This will introduce a very small and constant offset (typically << 1 msec). Read 'help BeampositionQueries'
+PTB-INFO: for how to correct this, should you really require that last few microseconds of precision.
+PTB-INFO: Btw. this can also mean that your systems beamposition queries are slightly broken. It may help timing precision to
+PTB-INFO: enable the beamposition workaround, as explained in 'help ConserveVRAMSettings', section 'kPsychUseBeampositionQueryWorkaround'.
+
+
+PTB-INFO: OpenGL-Renderer is NVIDIA Corporation :: GeForce 940MX/PCIe/SSE2 :: 4.6.0 NVIDIA 391.25
+PTB-INFO: VBL startline = 1080 , VBL Endline = 1080
+PTB-INFO: Measured monitor refresh interval from beamposition = 16.658843 ms [60.028179 Hz].
+PTB-INFO: Will use beamposition query for accurate Flip time stamping.
+PTB-INFO: Measured monitor refresh interval from VBLsync = 16.661286 ms [60.019377 Hz]. (50 valid samples taken, stddev=0.134792 ms.)
+PTB-INFO: Reported monitor refresh interval from operating system = 16.666667 ms [60.000000 Hz].
+PTB-INFO: Small deviations between reported values are normal and no reason to worry.
+PTB-INFO: Anti-Aliasing with 8 samples per pixel enabled.
+PTB-INFO: ==============================================================================================================================
+PTB-INFO: WINDOWS DWM DESKTOP COMPOSITOR IS ACTIVE. On this Windows-10 or later system, Psychtoolbox can no longer reliably detect if
+PTB-INFO: this will cause trouble for timing and integrity of visual stimuli or not. You might be just fine, or you could be in trouble.
+PTB-INFO: Use external measurement equipment and independent procedures to verify reliability of timing if you care about proper timing.
+PTB-INFO: ==============================================================================================================================
+[2019-03-03 12:46:51.640] PTB window opened.
+[2019-03-03 12:46:51.640] Session 3 has 90 trials, requires ?5.5s, [2019-03-03 12:46:51.740] Preparation slide displayed.
+[2019-03-03 12:47:01.958] 0 secs before recording, 2 secs before task.
+                          time stamp 849288.4740416533, Flip delay: 0.0000000000.
+time1228
+time1228
+[2019-03-03 12:56:03.952] 90 trials finished in 540s.
+    session: 3
+       icoh: 15
+
+[2019-03-03 12:56:08.229] This session completes at 03-Mar-2019 12:56:05, 544.004s after session start, 540s on 90 trials, totally 559.294s.
+
+[2019-03-03 12:56:08.230] MetaTwinsDoubleBlind_behave ends at 03-Mar-2019 12:56:08(737487.5389841320), totally 9min21.568s passed.
+
+
+
+[2019-03-03 12:56:29.035] Calling `MetaTwinsDoubleBlind_behave` for `yaopeng` at 03-Mar-2019 12:56:29(737487.5392249189).
+[2019-03-03 12:56:29.053] Trigger Connection success.Timelag = 0.001 s
+[2019-03-03 12:56:32.058] Connection success.Timelag = 0.001 s
+[Warning: You are asking for session 4, which is not compatible with my memory (which is 3)...
+I will use yours if we continue...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('MetaTwinsDoubleBlind_behave', 'D:\BNUSync\src\MetaTwins\MetaTwinsDoubleBlind_behave.m', 282)" style="font-weight:bold">MetaTwinsDoubleBlind_behave</a> (<a href="matlab: opentoline('D:\BNUSync\src\MetaTwins\MetaTwinsDoubleBlind_behave.m',282,0)">line 282</a>)] 
+Use icoh 9 receive from other's!!!
+[2019-03-03 12:56:32.088] Trying to open PTB window...
+[easyPTB Info] Using 14.0 inch screen with PPI=157.8
+
+
+PTB-INFO: This is Psychtoolbox-3 for Microsoft Windows, under Matlab 64-Bit (Version 3.0.14 - Build date: Oct  3 2017).
+PTB-INFO: Support status on this operating system release: Windows version 10.0 supported and tested to some limited degree.
+PTB-INFO: Type 'PsychtoolboxVersion' for more detailed version information.
+PTB-INFO: Most parts of the Psychtoolbox distribution are licensed to you under terms of the MIT License, with
+PTB-INFO: some restrictions. See file 'License.txt' in the Psychtoolbox root folder for the exact licensing conditions.
+
+PTB-INFO: The detected endline of the vertical blank interval is equal or lower than the startline. This indicates
+PTB-INFO: that i couldn't detect the duration of the vertical blank interval and won't be able to correct timestamps
+PTB-INFO: for it. This will introduce a very small and constant offset (typically << 1 msec). Read 'help BeampositionQueries'
+PTB-INFO: for how to correct this, should you really require that last few microseconds of precision.
+PTB-INFO: Btw. this can also mean that your systems beamposition queries are slightly broken. It may help timing precision to
+PTB-INFO: enable the beamposition workaround, as explained in 'help ConserveVRAMSettings', section 'kPsychUseBeampositionQueryWorkaround'.
+
+
+PTB-INFO: OpenGL-Renderer is NVIDIA Corporation :: GeForce 940MX/PCIe/SSE2 :: 4.6.0 NVIDIA 391.25
+PTB-INFO: VBL startline = 1080 , VBL Endline = 1080
+PTB-INFO: Measured monitor refresh interval from beamposition = 16.658773 ms [60.028429 Hz].
+PTB-INFO: Will use beamposition query for accurate Flip time stamping.
+PTB-INFO: Measured monitor refresh interval from VBLsync = 16.661038 ms [60.020270 Hz]. (50 valid samples taken, stddev=0.143349 ms.)
+PTB-INFO: Reported monitor refresh interval from operating system = 16.666667 ms [60.000000 Hz].
+PTB-INFO: Small deviations between reported values are normal and no reason to worry.
+PTB-INFO: Anti-Aliasing with 8 samples per pixel enabled.
+PTB-INFO: ==============================================================================================================================
+PTB-INFO: WINDOWS DWM DESKTOP COMPOSITOR IS ACTIVE. On this Windows-10 or later system, Psychtoolbox can no longer reliably detect if
+PTB-INFO: this will cause trouble for timing and integrity of visual stimuli or not. You might be just fine, or you could be in trouble.
+PTB-INFO: Use external measurement equipment and independent procedures to verify reliability of timing if you care about proper timing.
+PTB-INFO: ==============================================================================================================================
+[2019-03-03 12:56:35.224] PTB window opened.
+[2019-03-03 12:56:35.224] Session 4 has 90 trials, requires ?5.5s, [2019-03-03 12:56:35.340] Preparation slide displayed.
+[2019-03-03 12:56:45.553] 0 secs before recording, 2 secs before task.
+                          time stamp 849872.0752696362, Flip delay: 0.0000000000.
+time1228
+time1228
+[2019-03-03 13:05:47.553] 90 trials finished in 540s.
+    session: 4
+       icoh: 9
+
+[2019-03-03 13:05:51.832] This session completes at 03-Mar-2019 13:05:49, 544.004s after session start, 540s on 90 trials, totally 560.523s.
+
+[2019-03-03 13:05:51.833] MetaTwinsDoubleBlind_behave ends at 03-Mar-2019 13:05:51(737487.5457388079), totally 9min22.8s passed.
+
+
+

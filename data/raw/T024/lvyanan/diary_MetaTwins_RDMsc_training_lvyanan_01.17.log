@@ -1,0 +1,222 @@
+[2019-01-17 10:47:22.792] Calling `MetaTwins_RDMsc_training` for `lvyanan` at 17-Jan-2019 10:47:20(737442.4495432524).
+[2019-01-17 10:47:27.619] Initial coherence is 90 .
+                          Running MetaTwins_RDMsc_training('lvyanan', 1, [2019-01-17 10:47:27.655] Session 1 has 60 trials, requires 454s, 7.5s per trial.
+[2019-01-17 10:47:28.643] Trying to open PTB window...
+[easyPTB Info] Using 14.0 inch screen with PPI=157.8
+
+
+PTB-INFO: This is Psychtoolbox-3 for Microsoft Windows, under Matlab 64-Bit (Version 3.0.14 - Build date: Oct  3 2017).
+PTB-INFO: Support status on this operating system release: Windows version 10.0 supported and tested to some limited degree.
+PTB-INFO: Type 'PsychtoolboxVersion' for more detailed version information.
+PTB-INFO: Most parts of the Psychtoolbox distribution are licensed to you under terms of the MIT License, with
+PTB-INFO: some restrictions. See file 'License.txt' in the Psychtoolbox root folder for the exact licensing conditions.
+
+PTB-WARNING: Call to PsychAvSetMmMaxThreadCharacteristics() for Vista-MMCSS scheduling failed for threadhandle 00007FFCFA398648. Setting thread priority to HIGHEST as a work-around...
+PTB-INFO: The detected endline of the vertical blank interval is equal or lower than the startline. This indicates
+PTB-INFO: that i couldn't detect the duration of the vertical blank interval and won't be able to correct timestamps
+PTB-INFO: for it. This will introduce a very small and constant offset (typically << 1 msec). Read 'help BeampositionQueries'
+PTB-INFO: for how to correct this, should you really require that last few microseconds of precision.
+PTB-INFO: Btw. this can also mean that your systems beamposition queries are slightly broken. It may help timing precision to
+PTB-INFO: enable the beamposition workaround, as explained in 'help ConserveVRAMSettings', section 'kPsychUseBeampositionQueryWorkaround'.
+PTB-WARNING: Call to PsychAvSetMmMaxThreadCharacteristics() for Vista-MMCSS scheduling failed for threadhandle 00007FFCFA398648. Setting thread priority to HIGHEST as a work-around...
+
+
+PTB-INFO: OpenGL-Renderer is NVIDIA Corporation :: GeForce 940MX/PCIe/SSE2 :: 4.6.0 NVIDIA 391.25
+PTB-INFO: VBL startline = 1080 , VBL Endline = 1080
+PTB-INFO: Measured monitor refresh interval from beamposition = 16.659118 ms [60.027186 Hz].
+PTB-INFO: Will use beamposition query for accurate Flip time stamping.
+PTB-INFO: Measured monitor refresh interval from VBLsync = 16.655858 ms [60.038936 Hz]. (50 valid samples taken, stddev=0.176434 ms.)
+PTB-INFO: Reported monitor refresh interval from operating system = 16.666667 ms [60.000000 Hz].
+PTB-INFO: Small deviations between reported values are normal and no reason to worry.
+PTB-INFO: Anti-Aliasing with 8 samples per pixel enabled.
+PTB-INFO: ==============================================================================================================================
+PTB-INFO: WINDOWS DWM DESKTOP COMPOSITOR IS ACTIVE. On this Windows-10 or later system, Psychtoolbox can no longer reliably detect if
+PTB-INFO: this will cause trouble for timing and integrity of visual stimuli or not. You might be just fine, or you could be in trouble.
+PTB-INFO: Use external measurement equipment and independent procedures to verify reliability of timing if you care about proper timing.
+PTB-INFO: ==============================================================================================================================
+PTB-WARNING: Call to PsychAvSetMmMaxThreadCharacteristics() for Vista-MMCSS scheduling failed for threadhandle 00007FFCFA398648. Setting thread priority to HIGHEST as a work-around...
+[2019-01-17 10:47:31.353] PTB window opened.
+[2019-01-17 10:47:31.482] Preparation slide displayed.
+[2019-01-17 10:47:34.966] fMRI trigger recieved. 0 secs before recording, 2 secs before task.
+                          time stamp 596073.0955541034, Flip delay: 0.0168220619.
+[2019-01-17 10:53:05.947] 60 trials finished in 329s.
+         icoh: 90
+      session: 1
+      lastcoh: 8
+    recentcoh: 7.8000
+[2019-01-17 10:53:10.407] This session completes at 17-Jan-2019 10:53:07, 333.003s after session start, 329s on 60 trials, totally 347.413s, correctness is 85.000%.
+
+
+corr_isc_conf: 0.2835
+
+AUC: 0.7255
+[2019-01-17 10:53:10.458] MetaTwins_RDMsc_training ends at 17-Jan-2019 10:53:10(737442.4535932639), totally 5min49.921s passed.
+
+
+
+[2019-01-17 10:54:20.984] Calling `MetaTwins_RDMsc_training` for `lvyanan` at 17-Jan-2019 10:54:20(737442.4544094792).
+                          Running MetaTwins_RDMsc_training('lvyanan', 2, [2019-01-17 10:54:21.007] Session 2 has 60 trials, requires 454s, 7.5s per trial.
+[2019-01-17 10:54:22.005] Trying to open PTB window...
+[easyPTB Info] Using 14.0 inch screen with PPI=157.8
+
+
+PTB-INFO: This is Psychtoolbox-3 for Microsoft Windows, under Matlab 64-Bit (Version 3.0.14 - Build date: Oct  3 2017).
+PTB-INFO: Support status on this operating system release: Windows version 10.0 supported and tested to some limited degree.
+PTB-INFO: Type 'PsychtoolboxVersion' for more detailed version information.
+PTB-INFO: Most parts of the Psychtoolbox distribution are licensed to you under terms of the MIT License, with
+PTB-INFO: some restrictions. See file 'License.txt' in the Psychtoolbox root folder for the exact licensing conditions.
+
+PTB-WARNING: Call to PsychAvSetMmMaxThreadCharacteristics() for Vista-MMCSS scheduling failed for threadhandle 00007FFCFA398648. Setting thread priority to HIGHEST as a work-around...
+PTB-INFO: The detected endline of the vertical blank interval is equal or lower than the startline. This indicates
+PTB-INFO: that i couldn't detect the duration of the vertical blank interval and won't be able to correct timestamps
+PTB-INFO: for it. This will introduce a very small and constant offset (typically << 1 msec). Read 'help BeampositionQueries'
+PTB-INFO: for how to correct this, should you really require that last few microseconds of precision.
+PTB-INFO: Btw. this can also mean that your systems beamposition queries are slightly broken. It may help timing precision to
+PTB-INFO: enable the beamposition workaround, as explained in 'help ConserveVRAMSettings', section 'kPsychUseBeampositionQueryWorkaround'.
+PTB-WARNING: Call to PsychAvSetMmMaxThreadCharacteristics() for Vista-MMCSS scheduling failed for threadhandle 00007FFCFA398648. Setting thread priority to HIGHEST as a work-around...
+
+
+PTB-INFO: OpenGL-Renderer is NVIDIA Corporation :: GeForce 940MX/PCIe/SSE2 :: 4.6.0 NVIDIA 391.25
+PTB-INFO: VBL startline = 1080 , VBL Endline = 1080
+PTB-INFO: Measured monitor refresh interval from beamposition = 16.658814 ms [60.028282 Hz].
+PTB-INFO: Will use beamposition query for accurate Flip time stamping.
+PTB-INFO: Measured monitor refresh interval from VBLsync = 16.661172 ms [60.019787 Hz]. (50 valid samples taken, stddev=0.128217 ms.)
+PTB-INFO: Reported monitor refresh interval from operating system = 16.666667 ms [60.000000 Hz].
+PTB-INFO: Small deviations between reported values are normal and no reason to worry.
+PTB-INFO: Anti-Aliasing with 8 samples per pixel enabled.
+PTB-INFO: ==============================================================================================================================
+PTB-INFO: WINDOWS DWM DESKTOP COMPOSITOR IS ACTIVE. On this Windows-10 or later system, Psychtoolbox can no longer reliably detect if
+PTB-INFO: this will cause trouble for timing and integrity of visual stimuli or not. You might be just fine, or you could be in trouble.
+PTB-INFO: Use external measurement equipment and independent procedures to verify reliability of timing if you care about proper timing.
+PTB-INFO: ==============================================================================================================================
+PTB-WARNING: Call to PsychAvSetMmMaxThreadCharacteristics() for Vista-MMCSS scheduling failed for threadhandle 00007FFCFA398648. Setting thread priority to HIGHEST as a work-around...
+[2019-01-17 10:54:25.266] PTB window opened.
+[2019-01-17 10:54:25.395] Preparation slide displayed.
+[2019-01-17 10:54:29.576] fMRI trigger recieved. 0 secs before recording, 2 secs before task.
+                          time stamp 596487.7076492058, Flip delay: 0.0166634620.
+[2019-01-17 11:00:38.559] 60 trials finished in 367s.
+         icoh: 90
+      session: 2
+      lastcoh: 4
+    recentcoh: 3.7000
+[2019-01-17 11:00:42.923] This session completes at 17-Jan-2019 11:00:40, 371.003s after session start, 367s on 60 trials, totally 379.584s, correctness is 55.000%.
+
+
+corr_isc_conf: 0.3128
+
+AUC: 0.6706
+[2019-01-17 11:00:42.970] MetaTwins_RDMsc_training ends at 17-Jan-2019 11:00:42(737442.4588306713), totally 6min21.991s passed.
+
+
+
+[2019-01-17 11:01:22.114] Calling `MetaTwins_RDMsc_training` for `lvyanan` at 17-Jan-2019 11:01:22(737442.4592836805).
+[2019-01-17 11:01:29.329] Initial coherence is 25 .
+                          Running MetaTwins_RDMsc_training('lvyanan', 1, [2019-01-17 11:01:29.357] Session 1 has 60 trials, requires 334s, 5.5s per trial.
+[2019-01-17 11:01:30.349] Trying to open PTB window...
+[easyPTB Info] Using 14.0 inch screen with PPI=157.8
+
+
+PTB-INFO: This is Psychtoolbox-3 for Microsoft Windows, under Matlab 64-Bit (Version 3.0.14 - Build date: Oct  3 2017).
+PTB-INFO: Support status on this operating system release: Windows version 10.0 supported and tested to some limited degree.
+PTB-INFO: Type 'PsychtoolboxVersion' for more detailed version information.
+PTB-INFO: Most parts of the Psychtoolbox distribution are licensed to you under terms of the MIT License, with
+PTB-INFO: some restrictions. See file 'License.txt' in the Psychtoolbox root folder for the exact licensing conditions.
+
+PTB-WARNING: Call to PsychAvSetMmMaxThreadCharacteristics() for Vista-MMCSS scheduling failed for threadhandle 00007FFCFA398648. Setting thread priority to HIGHEST as a work-around...
+PTB-INFO: The detected endline of the vertical blank interval is equal or lower than the startline. This indicates
+PTB-INFO: that i couldn't detect the duration of the vertical blank interval and won't be able to correct timestamps
+PTB-INFO: for it. This will introduce a very small and constant offset (typically << 1 msec). Read 'help BeampositionQueries'
+PTB-INFO: for how to correct this, should you really require that last few microseconds of precision.
+PTB-INFO: Btw. this can also mean that your systems beamposition queries are slightly broken. It may help timing precision to
+PTB-INFO: enable the beamposition workaround, as explained in 'help ConserveVRAMSettings', section 'kPsychUseBeampositionQueryWorkaround'.
+PTB-WARNING: Call to PsychAvSetMmMaxThreadCharacteristics() for Vista-MMCSS scheduling failed for threadhandle 00007FFCFA398648. Setting thread priority to HIGHEST as a work-around...
+
+
+PTB-INFO: OpenGL-Renderer is NVIDIA Corporation :: GeForce 940MX/PCIe/SSE2 :: 4.6.0 NVIDIA 391.25
+PTB-INFO: VBL startline = 1080 , VBL Endline = 1080
+PTB-INFO: Measured monitor refresh interval from beamposition = 16.658649 ms [60.028878 Hz].
+PTB-INFO: Will use beamposition query for accurate Flip time stamping.
+PTB-INFO: Measured monitor refresh interval from VBLsync = 16.658696 ms [60.028708 Hz]. (50 valid samples taken, stddev=0.134401 ms.)
+PTB-INFO: Reported monitor refresh interval from operating system = 16.666667 ms [60.000000 Hz].
+PTB-INFO: Small deviations between reported values are normal and no reason to worry.
+PTB-INFO: Anti-Aliasing with 8 samples per pixel enabled.
+PTB-INFO: ==============================================================================================================================
+PTB-INFO: WINDOWS DWM DESKTOP COMPOSITOR IS ACTIVE. On this Windows-10 or later system, Psychtoolbox can no longer reliably detect if
+PTB-INFO: this will cause trouble for timing and integrity of visual stimuli or not. You might be just fine, or you could be in trouble.
+PTB-INFO: Use external measurement equipment and independent procedures to verify reliability of timing if you care about proper timing.
+PTB-INFO: ==============================================================================================================================
+PTB-WARNING: Call to PsychAvSetMmMaxThreadCharacteristics() for Vista-MMCSS scheduling failed for threadhandle 00007FFCFA398648. Setting thread priority to HIGHEST as a work-around...
+[2019-01-17 11:01:33.306] PTB window opened.
+[2019-01-17 11:01:33.434] Preparation slide displayed.
+[2019-01-17 11:01:36.183] fMRI trigger recieved. 0 secs before recording, 2 secs before task.
+                          time stamp 596914.3141117842, Flip delay: 0.0166525000.
+[2019-01-17 11:05:50.165] 60 trials finished in 252s.
+         icoh: 25
+      session: 1
+      lastcoh: 9
+    recentcoh: 8.2000
+[2019-01-17 11:05:54.541] This session completes at 17-Jan-2019 11:05:52, 256.003s after session start, 252s on 60 trials, totally 270.059s, correctness is 66.667%.
+
+
+corr_isc_conf: 0.5162
+
+AUC: 0.8105
+[2019-01-17 11:05:54.583] MetaTwins_RDMsc_training ends at 17-Jan-2019 11:05:54(737442.4624372916), totally 4min32.472s passed.
+
+
+
+[2019-01-17 11:06:27.859] Calling `MetaTwins_RDMsc_training` for `lvyanan` at 17-Jan-2019 11:06:27(737442.4628223843).
+                          Running MetaTwins_RDMsc_training('lvyanan', 2, [2019-01-17 11:06:27.882] Session 2 has 60 trials, requires 334s, 5.5s per trial.
+[2019-01-17 11:06:28.877] Trying to open PTB window...
+[easyPTB Info] Using 14.0 inch screen with PPI=157.8
+
+
+PTB-INFO: This is Psychtoolbox-3 for Microsoft Windows, under Matlab 64-Bit (Version 3.0.14 - Build date: Oct  3 2017).
+PTB-INFO: Support status on this operating system release: Windows version 10.0 supported and tested to some limited degree.
+PTB-INFO: Type 'PsychtoolboxVersion' for more detailed version information.
+PTB-INFO: Most parts of the Psychtoolbox distribution are licensed to you under terms of the MIT License, with
+PTB-INFO: some restrictions. See file 'License.txt' in the Psychtoolbox root folder for the exact licensing conditions.
+
+PTB-WARNING: Call to PsychAvSetMmMaxThreadCharacteristics() for Vista-MMCSS scheduling failed for threadhandle 00007FFCFA398648. Setting thread priority to HIGHEST as a work-around...
+PTB-INFO: The detected endline of the vertical blank interval is equal or lower than the startline. This indicates
+PTB-INFO: that i couldn't detect the duration of the vertical blank interval and won't be able to correct timestamps
+PTB-INFO: for it. This will introduce a very small and constant offset (typically << 1 msec). Read 'help BeampositionQueries'
+PTB-INFO: for how to correct this, should you really require that last few microseconds of precision.
+PTB-INFO: Btw. this can also mean that your systems beamposition queries are slightly broken. It may help timing precision to
+PTB-INFO: enable the beamposition workaround, as explained in 'help ConserveVRAMSettings', section 'kPsychUseBeampositionQueryWorkaround'.
+PTB-WARNING: Call to PsychAvSetMmMaxThreadCharacteristics() for Vista-MMCSS scheduling failed for threadhandle 00007FFCFA398648. Setting thread priority to HIGHEST as a work-around...
+
+
+PTB-INFO: OpenGL-Renderer is NVIDIA Corporation :: GeForce 940MX/PCIe/SSE2 :: 4.6.0 NVIDIA 391.25
+PTB-INFO: VBL startline = 1080 , VBL Endline = 1080
+PTB-INFO: Measured monitor refresh interval from beamposition = 16.659098 ms [60.027260 Hz].
+PTB-INFO: Will use beamposition query for accurate Flip time stamping.
+PTB-INFO: Measured monitor refresh interval from VBLsync = 16.659334 ms [60.026409 Hz]. (50 valid samples taken, stddev=0.143702 ms.)
+PTB-INFO: Reported monitor refresh interval from operating system = 16.666667 ms [60.000000 Hz].
+PTB-INFO: Small deviations between reported values are normal and no reason to worry.
+PTB-INFO: Anti-Aliasing with 8 samples per pixel enabled.
+PTB-INFO: ==============================================================================================================================
+PTB-INFO: WINDOWS DWM DESKTOP COMPOSITOR IS ACTIVE. On this Windows-10 or later system, Psychtoolbox can no longer reliably detect if
+PTB-INFO: this will cause trouble for timing and integrity of visual stimuli or not. You might be just fine, or you could be in trouble.
+PTB-INFO: Use external measurement equipment and independent procedures to verify reliability of timing if you care about proper timing.
+PTB-INFO: ==============================================================================================================================
+PTB-WARNING: Call to PsychAvSetMmMaxThreadCharacteristics() for Vista-MMCSS scheduling failed for threadhandle 00007FFCFA398648. Setting thread priority to HIGHEST as a work-around...
+[2019-01-17 11:06:32.136] PTB window opened.
+[2019-01-17 11:06:32.265] Preparation slide displayed.
+[2019-01-17 11:06:35.480] fMRI trigger recieved. 0 secs before recording, 2 secs before task.
+                          time stamp 597213.6116026684, Flip delay: 0.0167208735.
+[2019-01-17 11:10:42.463] 60 trials finished in 245s.
+         icoh: 25
+      session: 2
+      lastcoh: 6
+    recentcoh: 4.9000
+[2019-01-17 11:10:46.816] This session completes at 17-Jan-2019 11:10:44, 249.003s after session start, 245s on 60 trials, totally 256.612s, correctness is 55.000%.
+
+
+corr_isc_conf: 0.1717
+
+AUC: 0.6021
+[2019-01-17 11:10:46.860] MetaTwins_RDMsc_training ends at 17-Jan-2019 11:10:46(737442.4658201273), totally 4min19.005s passed.
+
+
+
